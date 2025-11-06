@@ -1,0 +1,43 @@
+WhatsApp Payment:
+
+1. check if we are payment to the group or individual person
+2. check that if we will done payment in group the name of all participants are shows properly
+3. check that when the enter amount page open for payment it shows the bank name and person name
+4. Check that when do the final payment it shows the person name and total amount that we enter
+5. check that when we click on the payemnt button it should let us enter pin first
+6. check that when we click on submit button the payment message is created or not in whatsapp chat
+7. check that after payment it will create the transaction history and transaction id
+8. check that if bank server down it shows an error or not.
+9. check that when it is insufficient bank balance it shows the proper error for insufficient bank balance
+10. check that if we enter wrong pin it does not let user to redirect to the payment
+11. verify that bank account is linked or not
+12. check if user enter wrong phone number while linking account
+13. verify that user can unlink their account
+14. check that user can cancel payment before the final payment
+15. check that user can make payment through the QR code
+16. check that user recieve the notification of the successfull payment
+17. check that failed transaction are also showed in history and have the option for the retry.
+18. check when the bank server is open the transaction should be successfull
+
+
+whatsapp Group:
+1. check that the option for the create group in whatsapp is works or not 
+2. check that when we click on new group all  the contacts are shows or not
+3. check that the selected contacts are shows at the top of the contact list
+4. check that when we click on next it first ask for the group name
+5. check that the selected contact also have the option for the disselect it again
+6. check that it shows the permissions for the group before created the gropu
+7. check that user can join the group via link or not
+8. check that after create the group it let user to add new members and chnage the group settings
+9. check the limit for the group members
+10. check that all the media links and documents are shown for all the users
+11. check that every users number and name are shown in the group
+12. check that payment gateway is working or not
+13. check that user can leave the group or not
+14. check that the group have the option for add in community
+15. check that all the options like video call audio call, chat lock are working perfect in group or not.
+16. check that group can make by one members and multiple members
+17. check that admin of the group is allow to remove and add members
+18. check that non admin can't allow to remove and add the members
+19. check that the members who leaves the group are shown in the past members list
+20. check that the members who leaves the group can be re-add or not
