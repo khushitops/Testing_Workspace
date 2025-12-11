@@ -1,0 +1,76 @@
+1] 
+1. check that user's transaction is successfully done or not
+2. check internet connection
+3. check that user filled up the right number and email while process the payment
+4. check the database query
+5. check that download button is working or not
+6. check that session is expired or not
+7. check that download button is shows or not or only showing when invoice is generated
+8. check that downloaded file is not shows in the system or it is not downloaded
+9. check that error message is showing proper when unable to the download it leads the user in right way
+10. check that user have that option to again download the invoice or retry option
+11. check the internet server errors
+12. check that user is downloade the invoice is theirs or others
+13. check that it is not download because of high traffic 
+
+2]
+1. check that user enter valid email while signing
+2. check the server errors
+3. check the spam email
+4. check the database query of the website
+5. check that user entered email is blocked
+6. check that user entered existed email id
+7. check that user have the option to resend the email if they not recieved the email
+8. check the time duration after signing in that it is not received the email
+9. check the user device issues
+10. check that user signed in website is secure or not or 3rd party web
+11. check that website version is compatible with the firefox or not
+
+3]
+1. check the website is responsive or not
+2. check that it is copmpatible for all the browsersand do cross browser checking
+3. check the code of the website
+4. check the css code of the website
+5. check javascript of that website
+6. check that they selected the chrome as default browser
+7. check the website in diffrent operating system 
+8. check that website is secure or not or it is 3rd party website
+9. check the website in other system or devices
+10. check that websites comptibility with the browser
+
+4]
+1. check the appliction work proper or not in random time
+2. check the load for the application
+3. check the database query for the application
+4. check the network and server issues
+5. check the perfromance of the application
+6. check that it is only slow only at peak time or it is slow for random time also
+7. check application with load and stress testing
+8. check the frontend code if there is any issues with it
+9. check the timing duration of the response in client system
+10. check that browser is freezing or there is any systematic issues
+11. check that it is only happen for the one user or multiple user
+12. check that user opens multiple tabs in the system and thats why application running slow
+13. check that application is 3rd party 
+14. check that users system is updated and can compatible for the appliction version
+15. check the application timeouts
+16. check that there is any cpu related issues or not
+17. check the backend code of the application
+
+5]
+1. check the version of the system for that users 
+2. check the session timeouts for that users
+3. check the server issues for that users
+4. check that they use the 3rd party software for that application or website
+5. check the application or websites backend code if there is any issues
+6. check the database querys 
+7. check that user enter existed credintials 
+8. check that users account is blocked or expired
+9. check that specfic user has no rights given for the log in
+10. check that if password store incorrectly
+11. check the case sensitivity for the credintials details
+12. check the multi factor authentication issues
+13. check API for that website or app
+14. check that user log in website in particular location that is prohibited from the developer team
+15. check the browser and os compatibilty for that specific user
+16. check the error message for unsuccessfull login
